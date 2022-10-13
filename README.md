@@ -6,7 +6,7 @@ in this application we uses the several concepts :-
     In Back-end we use of PHP.
    
      NOTED---->
-     Records is a Database File
-     Index is PHP File
+     records.sql is a SQL(Database File),
+     index.php is PHP File.
      
     
